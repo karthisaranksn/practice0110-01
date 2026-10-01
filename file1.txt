@@ -1,1 +1,2 @@
 second line from dev branch
+adding 3rd line from dev for file1
